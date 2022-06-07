@@ -32,7 +32,7 @@ Users should be able to:
 ![Thank You](./screenshot/thankyou.png)
 
 
-- Live Site URL: [Live Site](https://your-live-site-url.com)
+- Live Site URL: [Live Site](https://tengxuanp.github.io/interactive-rating-component/)
 
 ## My process
 
